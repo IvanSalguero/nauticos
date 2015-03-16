@@ -1,0 +1,5 @@
+class AboutController < ApplicationController
+  def index
+	@page_tittle = 'About Nauticos'
+  end
+end
